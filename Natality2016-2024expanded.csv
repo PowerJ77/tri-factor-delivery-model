@@ -1,0 +1,106 @@
+"Notes","Source of Payment for Delivery Expanded","Source of Payment for Delivery Expanded Code","Delivery Method Expanded","Delivery Method Expanded Code",Births
+,"Medicaid","1","Vaginal (excludes vaginal after previous C-section)","1",2110481
+,"Medicaid","1","Vaginal after previous c-section","2",73473
+,"Medicaid","1","Primary C-section","3",545113
+,"Medicaid","1","Repeat C-section","4",472556
+,"Medicaid","1","Vaginal (unknown if previous c-section)","5",3241
+,"Medicaid","1","C-section (unknown if previous c-section)","6",866
+,"Medicaid","1","Unknown or Not Stated","9",1110
+"Total","Medicaid","1",,,3206840
+,"Private Insurance","2","Vaginal (excludes vaginal after previous C-section)","1",2446705
+,"Private Insurance","2","Vaginal after previous c-section","2",72923
+,"Private Insurance","2","Primary C-section","3",786413
+,"Private Insurance","2","Repeat C-section","4",469218
+,"Private Insurance","2","Vaginal (unknown if previous c-section)","5",2114
+,"Private Insurance","2","C-section (unknown if previous c-section)","6",846
+,"Private Insurance","2","Unknown or Not Stated","9",1017
+"Total","Private Insurance","2",,,3779236
+,"Self-Pay","3","Vaginal (excludes vaginal after previous C-section)","1",221694
+,"Self-Pay","3","Vaginal after previous c-section","2",9500
+,"Self-Pay","3","Primary C-section","3",31747
+,"Self-Pay","3","Repeat C-section","4",24296
+,"Self-Pay","3","Vaginal (unknown if previous c-section)","5",907
+,"Self-Pay","3","C-section (unknown if previous c-section)","6",129
+,"Self-Pay","3","Unknown or Not Stated","9",420
+"Total","Self-Pay","3",,,288693
+,"Indian Health Service","4","Vaginal (excludes vaginal after previous C-section)","1",5269
+,"Indian Health Service","4","Vaginal after previous c-section","2",174
+,"Indian Health Service","4","Primary C-section","3",1070
+,"Indian Health Service","4","Repeat C-section","4",807
+,"Indian Health Service","4","Vaginal (unknown if previous c-section)","5",23
+"Total","Indian Health Service","4",,,7347
+,"CHAMPUS/TRICARE","5","Vaginal (excludes vaginal after previous C-section)","1",102740
+,"CHAMPUS/TRICARE","5","Vaginal after previous c-section","2",3295
+,"CHAMPUS/TRICARE","5","Primary C-section","3",25316
+,"CHAMPUS/TRICARE","5","Repeat C-section","4",15340
+,"CHAMPUS/TRICARE","5","Vaginal (unknown if previous c-section)","5",117
+,"CHAMPUS/TRICARE","5","C-section (unknown if previous c-section)","6",40
+,"CHAMPUS/TRICARE","5","Unknown or Not Stated","9",233
+"Total","CHAMPUS/TRICARE","5",,,147081
+,"Other Government (Federal, State, Local)","6","Vaginal (excludes vaginal after previous C-section)","1",47975
+,"Other Government (Federal, State, Local)","6","Vaginal after previous c-section","2",1787
+,"Other Government (Federal, State, Local)","6","Primary C-section","3",12891
+,"Other Government (Federal, State, Local)","6","Repeat C-section","4",10170
+,"Other Government (Federal, State, Local)","6","Vaginal (unknown if previous c-section)","5",58
+,"Other Government (Federal, State, Local)","6","C-section (unknown if previous c-section)","6",17
+,"Other Government (Federal, State, Local)","6","Unknown or Not Stated","9",27
+"Total","Other Government (Federal, State, Local)","6",,,72925
+,"Other","8","Vaginal (excludes vaginal after previous C-section)","1",45012
+,"Other","8","Vaginal after previous c-section","2",1597
+,"Other","8","Primary C-section","3",12296
+,"Other","8","Repeat C-section","4",8607
+,"Other","8","Vaginal (unknown if previous c-section)","5",142
+,"Other","8","C-section (unknown if previous c-section)","6",28
+,"Other","8","Unknown or Not Stated","9",38
+"Total","Other","8",,,67720
+,"Unknown or Not Stated","9","Vaginal (excludes vaginal after previous C-section)","1",39266
+,"Unknown or Not Stated","9","Vaginal after previous c-section","2",1403
+,"Unknown or Not Stated","9","Primary C-section","3",9680
+,"Unknown or Not Stated","9","Repeat C-section","4",5278
+,"Unknown or Not Stated","9","Vaginal (unknown if previous c-section)","5",561
+,"Unknown or Not Stated","9","C-section (unknown if previous c-section)","6",147
+,"Unknown or Not Stated","9","Unknown or Not Stated","9",2715
+"Total","Unknown or Not Stated","9",,,59050
+,"Not Reported","10","Vaginal (excludes vaginal after previous C-section)","1",2167931
+,"Not Reported","10","Vaginal after previous c-section","2",75463
+,"Not Reported","10","Primary C-section","3",630118
+,"Not Reported","10","Repeat C-section","4",437318
+,"Not Reported","10","Vaginal (unknown if previous c-section)","5",2872
+,"Not Reported","10","C-section (unknown if previous c-section)","6",994
+,"Not Reported","10","Unknown or Not Stated","9",2109
+"Total","Not Reported","10",,,3316805
+"Total",,,,,10945697
+"---"
+"Dataset: Natality, 2016-2024 expanded"
+"Query Parameters:"
+"Year: 2020; 2021; 2022"
+"Group By: Source of Payment for Delivery Expanded; Delivery Method Expanded"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/natality-expanded.html for more information."
+"---"
+"Query Date: Feb 7, 2026 9:56:29 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2016-2024, as compiled from data provided by"
+"the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
+"http://wonder.cdc.gov/natality-expanded-current.html on Feb 7, 2026 9:56:29 PM"
+"---"
+Messages:
+"1. Rows with zero Births are hidden. Use Quick Options above to show zero rows."
+"2. Rows with suppressed Births are hidden, but the Births values in those rows are included in the totals. Use Quick Options"
+"above to show suppressed rows."
+"---"
+Caveats:
+"1. 'Suppressed' appears when the data do not meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/natality-expanded.html#Assurance of Confidentiality."
+"2. Each birth record represents one liveborn infant."
+"3. The following reporting areas do not report all of the categories ""Indian Health Service"", ""CHAMPUS/TRICARE"", and ""Other"
+"Government"" for ""Source of Payment for Delivery Expanded"". They have been recoded to ""Not Reported"" for ""Source of Payment"
+"for Delivery Expanded"": Arizona 2016-2017; Arkansas 2016-2024; California 2022-2024; District of Columbia 2016-2017; Florida"
+"2016-2024; Illinois 2016-2024; Michigan 2016-2020; Minnesota 2016-2024; Mississippi 2016-2024; Missouri 2016-2024; New Hampshire"
+"2016-2024; New Jersey 2016-2024; North Carolina 2016-2024; Pennsylvania 2016-2024; Rhode Island 2018-2024; Texas 2016-2019;"
+"Vermont 2016-2024; Virginia 2016-2019."
